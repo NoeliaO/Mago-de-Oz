@@ -3,3 +3,5 @@ img {
     height: auto;
   }
 table, th, td {border: 1px solid black;}
+th {background-color:red; color: white;}
+#C{font-family: }
